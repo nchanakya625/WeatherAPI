@@ -320,7 +320,7 @@ try :
     condition_text.set(values_for_data_extraction["Condition"])
     location_name = values_for_data_extraction["Location Name"]
 except KeyError:
-    location_name = "No Internet Connection"
+    location_name = "  No Internet Connection"
 
 
 #Labels for Tkinter GUI

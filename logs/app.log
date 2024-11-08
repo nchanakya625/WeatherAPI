@@ -2721,3 +2721,71 @@
 2024-11-08 20:32:20,676 - INFO - Fetching weather data for: new jersey
 2024-11-08 20:32:20,933 - INFO - Data successfully retrieved from API.
 2024-11-08 20:32:20,934 - INFO - Extracting weather data...
+2024-11-08 20:49:03,078 - INFO - API key successfully loaded.
+2024-11-08 20:49:03,078 - INFO - Starting weather data retrieval process...
+2024-11-08 20:49:03,078 - INFO - Checking internet connection...
+2024-11-08 20:49:03,418 - INFO - Internet connection is available.
+2024-11-08 20:49:03,419 - INFO - Fetching IP address...
+2024-11-08 20:49:04,992 - INFO - Data successfully retrieved from API.
+2024-11-08 20:49:04,992 - INFO - Extracting weather data...
+2024-11-08 20:49:04,993 - INFO - Extracting weather data...
+2024-11-08 20:49:04,993 - INFO - Location Name : Faridabad
+2024-11-08 20:49:04,993 - INFO - Local Time : 2024-11-08 20:48
+2024-11-08 20:49:04,993 - INFO - Condition : Mist
+2024-11-08 20:49:04,993 - INFO - Condition Icon URL : //cdn.weatherapi.com/weather/64x64/night/143.png
+2024-11-08 20:49:04,993 - INFO - Condition Code : 1030
+2024-11-08 20:49:04,993 - INFO - Wind Speed (kph) : 8.6
+2024-11-08 20:49:04,993 - INFO - Humidity (%) : 69
+2024-11-08 20:49:04,993 - INFO - Feels Like (°C) : 25.1
+2024-11-08 20:49:04,994 - INFO - UV Index : 0.0
+2024-11-08 20:49:04,994 - INFO - Temp Celsius : 25.3
+2024-11-08 20:50:41,420 - INFO - Data successfully retrieved from API.
+2024-11-08 20:50:41,421 - INFO - Extracting weather data...
+2024-11-08 20:50:41,590 - INFO - Fetching weather data for: agra
+2024-11-08 20:50:41,845 - INFO - Data successfully retrieved from API.
+2024-11-08 20:50:41,846 - INFO - Extracting weather data...
+2024-11-08 20:50:51,785 - WARNING - Bad Request - Invalid parameters or missing data.
+2024-11-08 20:50:51,786 - ERROR - Error in getting weather data: Bad Request - Invalid parameters or missing data
+2024-11-08 20:51:01,834 - INFO - Fetching weather data for: nocity
+2024-11-08 20:51:02,279 - WARNING - Bad Request - Invalid parameters or missing data.
+2024-11-08 20:51:02,279 - ERROR - Error in getting weather data: Bad Request - Invalid parameters or missing data
+2024-11-08 20:51:15,386 - WARNING - Bad Request - Invalid parameters or missing data.
+2024-11-08 20:51:15,386 - ERROR - Error in getting weather data: Bad Request - Invalid parameters or missing data
+2024-11-08 20:51:36,221 - INFO - Fetching weather data for: nocity
+2024-11-08 20:51:36,755 - WARNING - Bad Request - Invalid parameters or missing data.
+2024-11-08 20:51:36,755 - ERROR - Error in getting weather data: Bad Request - Invalid parameters or missing data
+2024-11-08 20:51:44,902 - ERROR - Error making API request: HTTPSConnectionPool(host='api.weatherapi.com', port=443): Max retries exceeded with url: /v1/current.json?key=77a67ac8b551434c9bc35547240711&q=agra (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001DD1A2FE850>: Failed to resolve 'api.weatherapi.com' ([Errno 11001] getaddrinfo failed)"))
+2024-11-08 20:51:44,902 - ERROR - Error in getting weather data: Request Exception: HTTPSConnectionPool(host='api.weatherapi.com', port=443): Max retries exceeded with url: /v1/current.json?key=77a67ac8b551434c9bc35547240711&q=agra (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001DD1A2FE850>: Failed to resolve 'api.weatherapi.com' ([Errno 11001] getaddrinfo failed)"))
+2024-11-08 20:51:47,256 - INFO - Fetching weather data for: agra
+2024-11-08 20:51:47,258 - ERROR - Error making API request: HTTPSConnectionPool(host='api.weatherapi.com', port=443): Max retries exceeded with url: /v1/current.json?key=77a67ac8b551434c9bc35547240711&q=agra (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001DD1A2FEAD0>: Failed to resolve 'api.weatherapi.com' ([Errno 11001] getaddrinfo failed)"))
+2024-11-08 20:51:47,258 - ERROR - Error in getting weather data: Request Exception: HTTPSConnectionPool(host='api.weatherapi.com', port=443): Max retries exceeded with url: /v1/current.json?key=77a67ac8b551434c9bc35547240711&q=agra (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001DD1A2FEAD0>: Failed to resolve 'api.weatherapi.com' ([Errno 11001] getaddrinfo failed)"))
+2024-11-08 20:52:09,296 - INFO - API key successfully loaded.
+2024-11-08 20:52:09,296 - INFO - Starting weather data retrieval process...
+2024-11-08 20:52:09,296 - INFO - Checking internet connection...
+2024-11-08 20:52:09,298 - ERROR - Internet connection check failed: HTTPSConnectionPool(host='8.8.8.8', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000021068FEF4D0>: Failed to establish a new connection: [WinError 10065] A socket operation was attempted to an unreachable host'))
+2024-11-08 20:52:09,298 - ERROR - Internet connection is not available.
+2024-11-08 20:52:40,175 - INFO - API key successfully loaded.
+2024-11-08 20:52:40,176 - INFO - Starting weather data retrieval process...
+2024-11-08 20:52:40,176 - INFO - Checking internet connection...
+2024-11-08 20:52:40,179 - ERROR - Internet connection check failed: HTTPSConnectionPool(host='8.8.8.8', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x00000141C922F4D0>: Failed to establish a new connection: [WinError 10065] A socket operation was attempted to an unreachable host'))
+2024-11-08 20:52:40,179 - ERROR - Internet connection is not available.
+2024-11-08 20:53:10,357 - ERROR - Error making API request: HTTPSConnectionPool(host='api.weatherapi.com', port=443): Max retries exceeded with url: /v1/current.json?key=77a67ac8b551434c9bc35547240711&q=agra (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000141CA7E0190>: Failed to resolve 'api.weatherapi.com' ([Errno 11001] getaddrinfo failed)"))
+2024-11-08 20:53:10,357 - ERROR - Error in getting weather data: Request Exception: HTTPSConnectionPool(host='api.weatherapi.com', port=443): Max retries exceeded with url: /v1/current.json?key=77a67ac8b551434c9bc35547240711&q=agra (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000141CA7E0190>: Failed to resolve 'api.weatherapi.com' ([Errno 11001] getaddrinfo failed)"))
+2024-11-08 20:53:14,928 - INFO - Fetching weather data for: agra
+2024-11-08 20:53:14,932 - ERROR - Error making API request: HTTPSConnectionPool(host='api.weatherapi.com', port=443): Max retries exceeded with url: /v1/current.json?key=77a67ac8b551434c9bc35547240711&q=agra (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000141CA7E0A50>: Failed to resolve 'api.weatherapi.com' ([Errno 11001] getaddrinfo failed)"))
+2024-11-08 20:53:14,932 - ERROR - Error in getting weather data: Request Exception: HTTPSConnectionPool(host='api.weatherapi.com', port=443): Max retries exceeded with url: /v1/current.json?key=77a67ac8b551434c9bc35547240711&q=agra (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000141CA7E0A50>: Failed to resolve 'api.weatherapi.com' ([Errno 11001] getaddrinfo failed)"))
+2024-11-08 20:53:29,290 - ERROR - Error making API request: HTTPSConnectionPool(host='api.weatherapi.com', port=443): Max retries exceeded with url: /v1/current.json?key=77a67ac8b551434c9bc35547240711&q=agra (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000141CA7E11D0>: Failed to resolve 'api.weatherapi.com' ([Errno 11001] getaddrinfo failed)"))
+2024-11-08 20:53:29,290 - ERROR - Error in getting weather data: Request Exception: HTTPSConnectionPool(host='api.weatherapi.com', port=443): Max retries exceeded with url: /v1/current.json?key=77a67ac8b551434c9bc35547240711&q=agra (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000141CA7E11D0>: Failed to resolve 'api.weatherapi.com' ([Errno 11001] getaddrinfo failed)"))
+2024-11-08 20:53:45,805 - INFO - Fetching weather data for: agra
+2024-11-08 20:53:45,809 - ERROR - Error making API request: HTTPSConnectionPool(host='api.weatherapi.com', port=443): Max retries exceeded with url: /v1/current.json?key=77a67ac8b551434c9bc35547240711&q=agra (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000141CA7E1590>: Failed to resolve 'api.weatherapi.com' ([Errno 11001] getaddrinfo failed)"))
+2024-11-08 20:53:45,809 - ERROR - Error in getting weather data: Request Exception: HTTPSConnectionPool(host='api.weatherapi.com', port=443): Max retries exceeded with url: /v1/current.json?key=77a67ac8b551434c9bc35547240711&q=agra (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000141CA7E1590>: Failed to resolve 'api.weatherapi.com' ([Errno 11001] getaddrinfo failed)"))
+2024-11-08 20:56:20,796 - INFO - API key successfully loaded.
+2024-11-08 20:56:20,796 - INFO - Starting weather data retrieval process...
+2024-11-08 20:56:20,796 - INFO - Checking internet connection...
+2024-11-08 20:56:20,798 - ERROR - Internet connection check failed: HTTPSConnectionPool(host='8.8.8.8', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001DD57A5F4D0>: Failed to establish a new connection: [WinError 10065] A socket operation was attempted to an unreachable host'))
+2024-11-08 20:56:20,798 - ERROR - Internet connection is not available.
+2024-11-08 20:56:55,332 - WARNING - Bad Request - Invalid parameters or missing data.
+2024-11-08 20:56:55,333 - ERROR - Error in getting weather data: Bad Request - Invalid parameters or missing data
+2024-11-08 20:57:29,200 - INFO - Fetching weather data for: nocity
+2024-11-08 20:57:29,657 - WARNING - Bad Request - Invalid parameters or missing data.
+2024-11-08 20:57:29,658 - ERROR - Error in getting weather data: Bad Request - Invalid parameters or missing data

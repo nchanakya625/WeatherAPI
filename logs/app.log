@@ -2789,3 +2789,26 @@
 2024-11-08 20:57:29,200 - INFO - Fetching weather data for: nocity
 2024-11-08 20:57:29,657 - WARNING - Bad Request - Invalid parameters or missing data.
 2024-11-08 20:57:29,658 - ERROR - Error in getting weather data: Bad Request - Invalid parameters or missing data
+2024-11-08 21:27:46,516 - INFO - API key successfully loaded.
+2024-11-08 21:27:46,516 - INFO - Starting weather data retrieval process...
+2024-11-08 21:27:46,516 - INFO - Checking internet connection...
+2024-11-08 21:27:47,414 - INFO - Internet connection is available.
+2024-11-08 21:27:47,415 - INFO - Fetching IP address...
+2024-11-08 21:27:50,015 - INFO - Data successfully retrieved from API.
+2024-11-08 21:27:50,016 - INFO - Extracting weather data...
+2024-11-08 21:27:50,016 - INFO - Extracting weather data...
+2024-11-08 21:27:50,016 - INFO - Location Name : Faridabad
+2024-11-08 21:27:50,016 - INFO - Local Time : 2024-11-08 21:27
+2024-11-08 21:27:50,016 - INFO - Condition : Clear
+2024-11-08 21:27:50,016 - INFO - Condition Icon URL : //cdn.weatherapi.com/weather/64x64/night/113.png
+2024-11-08 21:27:50,017 - INFO - Condition Code : 1000
+2024-11-08 21:27:50,017 - INFO - Wind Speed (kph) : 8.6
+2024-11-08 21:27:50,017 - INFO - Humidity (%) : 35
+2024-11-08 21:27:50,017 - INFO - Feels Like (°C) : 26.0
+2024-11-08 21:27:50,017 - INFO - UV Index : 0.0
+2024-11-08 21:27:50,017 - INFO - Temp Celsius : 26.4
+2024-11-08 21:27:57,212 - INFO - Data successfully retrieved from API.
+2024-11-08 21:27:57,213 - INFO - Extracting weather data...
+2024-11-08 21:27:57,267 - INFO - Fetching weather data for: agra
+2024-11-08 21:27:57,530 - INFO - Data successfully retrieved from API.
+2024-11-08 21:27:57,531 - INFO - Extracting weather data...
